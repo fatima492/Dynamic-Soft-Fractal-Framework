@@ -1,4 +1,4 @@
-# Dynamic Soft Fractal (DSF) Framework — Reproducibility Codebase
+# Dynamic Soft Fractal (DSF) Framework Reproducibility Codebase
 
 Companion code for the manuscript:
 
@@ -36,7 +36,7 @@ the computational procedures described in the manuscript. It is built as a **sin
 ```bash
 # 1. Clone (or download the supplementary material zip)
 git clone https://github.com/fatima492/Dynamic-Soft-Fractal-Framework.git
-cd Dynamic-Soft-Fractal-Framework
+Dynamic-Soft-Fractal-Framework
 
 # 2. Install the three dependencies (any modern Python 3.10+ works)
 pip install numpy scipy pandas
