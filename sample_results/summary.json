@@ -1,0 +1,7 @@
+{
+  "seed": 20250521,
+  "quick": true,
+  "results_directory": "/home/claude/dsf_paper/code/results",
+  "n_sections_run": 14,
+  "section_run": "all"
+}

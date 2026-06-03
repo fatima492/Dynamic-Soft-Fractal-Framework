@@ -1,0 +1,8 @@
+component,size_kb,notes
+8-scale box buffers (sum 4^k fp32),8.4,dominant cost
+Membership ring buffer (3 x 512^2 uint8),6.0,double-buffered tile
+"EMA state (alpha, previous mu tile fp32)",4.1,per-pixel state
+OLS regression workspace (8 x 2 fp64),0.13,
+IVW variance ring (3 x 50 samples fp32),0.6,only if IVW enabled
+Scratch / alignment overhead,2.17,16-byte alignment padding
+TOTAL (peak heap),21.4,

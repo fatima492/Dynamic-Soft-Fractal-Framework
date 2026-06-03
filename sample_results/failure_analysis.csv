@@ -1,0 +1,4 @@
+mode,share_pct,total_failures_count,total_failure_rate_pct
+F1: Sensor saturation,41.7,36,7.5
+F2: Vibration aliasing,38.9,36,7.5
+F3: Occlusion dropout,19.4,36,7.5
