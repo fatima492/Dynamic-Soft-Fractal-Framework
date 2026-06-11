@@ -5,8 +5,7 @@ Companion code for the manuscript:
 **Muhammad Saeed, Zareena Nihal, Fatima Razaq,
 Muhammad Salman Habib, and Zeshan Aslam Khan (2026).**
 
-*Dynamic Soft Fractal Framework for Modelling Time-Varying Systems in Robotic Control.*
-Submitted to *Chaos, Solitons & Fractals*.
+*Dynamic Soft Fractal Framework for Modelling Time-Varying Systems in Robotic Control.*.
 
 This repository reproduces all reported **numerical analyses, summary statistics, tables, and headline figure metrics** using
 the computational procedures described in the manuscript. It is built as a **single self-contained Python script** (`dsf_analysis.py`, ~1,295 lines) with only three core dependencies — `numpy`, `scipy`, `pandas` — and no proprietary tooling. A binomial generalised linear mixed-effects model (GLMM) is implemented from scratch in-script, so no R or `statsmodels` installation is required.
