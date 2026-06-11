@@ -5,10 +5,9 @@ Dynamic Soft Fractal (DSF) Framework -- Reproducibility Codebase
 ================================================================================
 
 Companion code for:
-    Saeed, Nihal, Ali (2025).
+    Saeed et al. (2026).
     "Dynamic Soft Fractal Framework for Modelling Time-Varying Systems in
     Robotic Control."
-    Submitted to Chaos, Solitons & Fractals.
 
 This single file reproduces *all* numerical analyses reported in the manuscript:
 
