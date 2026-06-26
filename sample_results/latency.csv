@@ -1,0 +1,10 @@
+stage,mean_ms,sd_ms
+Sensor acquisition,5.2,0.4
+Normalisation + smoothing,2.1,0.2
+EMA update,0.8,0.1
+Ds(t) compute 8 scales,8.4,0.6
+Ds_dot finite difference,0.3,0.0
+Actuation dispatch,1.9,0.3
+Subtotal (without IVW),18.7,0.8
+IVW variance update (optional),0.4,0.1
+Total (with IVW),19.1,0.9

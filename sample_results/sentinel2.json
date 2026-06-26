@@ -1,0 +1,10 @@
+{
+  "n_monthly_frames": 72,
+  "n_annual_aggregates": 6,
+  "df": 4,
+  "DeltaDs_amplitude": 0.105,
+  "pearson_r": 0.71,
+  "p_value": 0.114,
+  "significant_at_0.05": false,
+  "note": "Reconciles the round-2 reviewer's correction: previous p<0.001 was erroneous; correct value at n=6 is p~=0.12."
+}
