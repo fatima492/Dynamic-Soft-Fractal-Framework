@@ -198,7 +198,7 @@ dependencies and are not part of the analysis pipeline.
 
 ---
 
-## Honest disclosure: simulated vs. measured
+## Disclosure: simulated vs. measured
 
 > **Manuscript alignment.** The manuscript now contains a dedicated subsection,
 > 'Provenance of the reported quantities' (Section 5.1), that states the same
