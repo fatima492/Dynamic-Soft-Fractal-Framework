@@ -1,8 +1,0 @@
-method,Fruit_mean,Fruit_sd,Medical_mean,Medical_sd,Warehouse_mean,Warehouse_sd,Prosthetic_mean,Prosthetic_sd,overall_mean,overall_sd
-DSF,93.3,5.8,93.3,11.5,80.0,20.0,90.0,10.0,89.2,12.4
-DynamicFractal,76.7,11.5,80.0,17.3,73.3,20.8,73.3,11.5,75.8,13.8
-FuzzyFractal,73.3,11.5,83.3,5.8,70.0,17.3,63.3,20.8,72.5,14.8
-ClassicalFractal,63.3,5.8,60.0,36.1,46.7,25.2,50.0,17.3,55.0,21.5
-ForceThreshold,66.7,20.8,76.7,5.8,53.3,15.3,60.0,10.0,64.2,15.1
-GraspNet,83.3,5.8,86.7,15.3,80.0,10.0,70.0,10.0,80.0,11.3
-SoftFusionOnly,83.3,11.5,90.0,10.0,83.3,11.5,86.7,5.8,85.8,9.0

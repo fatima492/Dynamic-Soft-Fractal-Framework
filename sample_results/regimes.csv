@@ -1,5 +1,0 @@
-regime,DSF_pct,alt_method,alt_pct,winner
-Cluttered rigid-object scenes,91.3,Contact-GraspNet,94.5,Contact-GraspNet
-Rigid scenes without deformation,88.0,Force-threshold,86.5,Tie (DSF marginal)
-Very small contact patches (<64 px),78.2,Non-fractal descriptor,84.0,Non-fractal
-EGAD pilot (100 objects),87.4,Contact-GraspNet,90.1,Contact-GraspNet
